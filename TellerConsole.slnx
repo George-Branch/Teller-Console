@@ -2,5 +2,5 @@
   <Project Path="../Teller-Console-ToFix/TellerConsole.UnitTests/TellerConsole.UnitTests.csproj" />
   <Project Path="../Teller-Console-ToFix/TellerDB/TellerDB.csproj" />
   <Project Path="../Teller-Console-ToFix/TellerDomain/TellerDomain.csproj" />
-  <Project Path="TellerConsole/TellerConsole.csproj" />
+  <Project Path="Presentation/Presentation.csproj" />
 </Solution>
