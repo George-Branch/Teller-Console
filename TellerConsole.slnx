@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="../TellerConsole.UnitTests/TellerConsole.UnitTests.csproj" Id="91f5c660-8c30-48f6-aecb-d697213a13d0" />
-  <Project Path="../TellerDB/TellerDB.csproj" />
-  <Project Path="../TellerDomain/TellerDomain.csproj" />
-  <Project Path="TellerConsole.csproj" />
+  <Project Path="../Teller-Console-ToFix/TellerConsole.UnitTests/TellerConsole.UnitTests.csproj" />
+  <Project Path="../Teller-Console-ToFix/TellerDB/TellerDB.csproj" />
+  <Project Path="../Teller-Console-ToFix/TellerDomain/TellerDomain.csproj" />
+  <Project Path="TellerConsole/TellerConsole.csproj" />
 </Solution>
